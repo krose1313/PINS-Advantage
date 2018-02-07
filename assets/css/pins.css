@@ -1,9 +1,15 @@
 .logo {
 	width: 200px;
 	height: auto;
+	margin-left: 10%;
 }
 
 .nav-item {
   margin-left: 5px;
   margin-right: 5px;
+}
+
+.nav-link {
+	font-family: 'Libre Baskerville', serif !important;
+	font-size: 18px;
 }
